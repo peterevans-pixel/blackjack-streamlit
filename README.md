@@ -17,3 +17,28 @@ This app is intended for anyone who enjoys card games or wants to learn how to p
 - Calculate the value of each hand and determine the winner.
 - Keep track of wins and losses.
 - Allow users to start a new round.
+
+
+# Blackjack Streamlit Game
+
+## Description
+This is an interactive Blackjack game built using Python and Streamlit. Players can play against a computer dealer and try to get as close to 21 as possible without going over.
+
+## Current Features
+- Interactive Blackjack game
+- Difficulty selection dropdown
+- Starting chips slider
+- Deal Cards, Hit, and Stand buttons
+- Playing cards with suits and colors
+- Dealer with a hidden card
+- Automatic hand total calculations
+- Win, loss, and tie messages
+
+## Planned Features
+- Functional betting system
+- Difficulty settings that affect gameplay
+- Improved casino-style design
+- Win and loss statistics
+
+## Intended Users
+Anyone who enjoys Blackjack or wants to practice playing a simple card game.
